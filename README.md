@@ -1,26 +1,38 @@
-# Transcriptomic-analysis-identifies-lactoferrin-induced-quiescent-circuits-in-neonatal-macrophages
-Data repository and Code repository for the publication "Transcriptomic analysis identifies lactoferrin-induced quiescent circuits in neonatal macrophages"
-Markdown_Analyses_Lactoferrin
-================
-Michael Eigenschink MD
-2023-09-13
+# Transcriptomic analysis identifies lactoferrin-induced quiescent circuits in neonatal macrophages
+Data repository and code repository for the publication "Transcriptomic analysis identifies lactoferrin-induced quiescent circuits in neonatal macrophages"
 
-MaEndToEnd Workflow
-[link](https://bioconductor.riken.jp/packages/3.9/workflows/vignettes/maEndToEnd/inst/doc/MA-Workflow.html)  
-RegEnrich
-[link](https://bioconductor.org/packages/release/bioc/vignettes/RegEnrich/inst/doc/RegEnrich.html)  
-GoPlot [link](https://wencke.github.io/)  
-ComplexHeatmap
-[link](https://jokergoo.github.io/ComplexHeatmap-reference/book/)  
-The Human Protein Atlas [link](https://www.proteinatlas.org/)  
-InnateDB [link](https://www.innatedb.com/)  
-ImmPort Cytokine Registry
-[link](https://www.immport.org/resources/cytokineRegistry)  
-Reactome [link](https://reactome.org/)  
-KeGG Pathway Database [link](https://www.genome.jp/kegg/pathway.html)  
-Compare Cluster
-[link](https://yulab-smu.top/biomedical-knowledge-mining-book/clusterprofiler-comparecluster.html)  
-StringDB [link](https://string-db.org/)
+<p><b>Analysis: Michael Eigenschink MD</b></p>
+<p><i>Medical University of Vienna</i></p>
+
+<p>
+  Michael Eigenschink<sup>1</sup>, Isabelle Wessely<sup>1</sup>, Marco Dijmarescu<sup>1</sup>, Elisabeth Förster-Waldl<sup>1</sup>, Alex Farr<sup>2</sup>, Herbert Kiss<sup>2</sup>, Angelika Berger<sup>1</sup>, and Lukas Wisgrill<sup>1</sup><br></p>
+
+  <p>
+  <sup>1</sup>Division of Neonatology, Pediatric Intensive Care & Neuropaediatrics, Department of Pediatrics and Adolescent Medicine, Comprehensive Center for Pediatrics, Medical University of Vienna, Austria </p>
+ <p> <sup>2</sup>Department of Obstetrics and Gynecology, Division of Obstetrics and Feto-Maternal Medicine, Comprehensive Center for Pediatrics, Medical University of Vienna, Vienna, Austria.
+</p>
+
+Analysis R Markdown
+================
+2023-09-13, Michael Eigenschink MD</p>
+
+<b>Source data:</b>
+The source data analyzed in the current study are readily available from ArrayExpress under the accession number E-MTAB-13175.</p>
+
+<p><b>Links to repositories/workflows:</b></p>
+<p>MaEndToEnd Workflow (https://bioconductor.riken.jp/packages/3.9/workflows/vignettes/maEndToEnd/inst/doc/MA-Workflow.html)</p>  
+<p>RegEnrich (https://bioconductor.org/packages/release/bioc/vignettes/RegEnrich/inst/doc/RegEnrich.html)</p>  
+<p>GoPlot (https://wencke.github.io/)</p>  
+<p>ComplexHeatmap (https://jokergoo.github.io/ComplexHeatmap-reference/book/)</p>  
+<p>The Human Protein Atlas (https://www.proteinatlas.org/)</p>  
+<p>InnateDB (https://www.innatedb.com/)</p> 
+<p>ImmPort Cytokine Registry (https://www.immport.org/resources/cytokineRegistry)</p>  
+<p>Reactome (https://reactome.org/)</p>  
+<p>KeGG Pathway Database (https://www.genome.jp/kegg/pathway.html)</p>  
+<p>Compare Cluster (https://yulab-smu.top/biomedical-knowledge-mining-book/clusterprofiler-comparecluster.html)</p>  
+<p>StringDB (https://string-db.org/)</p>
+
+================
 
 # Import of data + initial wrangling
 
